@@ -4,7 +4,13 @@ This algorithm test is mostly used in testings applicant during job interview. I
 
 ## Question
 
-A function that take a number as a parameter and logs them out. For each number if it is divisible by 3 log out Fizz, if it divisible by 5 log out Buzz and if any number is divisible by both log out FizzBuzz.
+Write a program that prints the integers from 1 to 100 (inclusive).
+
+But:
+* for multiples of three, print Fizz (instead of the number)
+* for multiples of five, print Buzz (instead of the number)
+* for multiples of both three and five, print FizzBuzz (instead of the number)
+
 
 ### Modulus Operator 
 
@@ -18,5 +24,3 @@ Modulus operator is used to get the remainer after the number has been divided
     console.log(10 % 5);
     => 0
 ```
-
-

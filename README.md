@@ -4,5 +4,7 @@ This is for the purpose of learning programming for the basic, since i don't hav
 
 
 ## 1. FizzBuzz
+    *-* Modulus
 
-## 2. 
+## 2. Harmless Ransom Note
+    *-* Big O Notation 
