@@ -1,10 +1,12 @@
 # Algorithm - in javascript
 
-This is for the purpose of learning programming for the basic, since i don't have computer science background.
+This is for the purpose of learning programming for the basic, 
+
+Each Folder have its own EXPLANATION.md file with related explanations 
 
 
 ## 1. FizzBuzz
-    *-* Modulus
+    Modulus
 
 ## 2. Harmless Ransom Note
-    *-* Big O Notation 
+    Big O Notation 
