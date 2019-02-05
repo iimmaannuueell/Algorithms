@@ -1,11 +1,8 @@
 # Algorithm - in javascript
 
-This is for the purpose of learning programming for the basic, 
+This is for the purpose of learning programming from the basics, 
 
-Each Folder have its own EXPLANATION.md file with related explanations 
-
-### 1. FizzBuzz
-     Modulus
+Each Folder have its own EXPLANATION.md file for more explanation.
 
 ## 1. FizzBuzz
     Modulus

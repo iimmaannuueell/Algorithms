@@ -82,3 +82,6 @@ function binarySearch(array, search){
 }
 ```
 
+##
+ 
+In solving the harmlessRansomNote we will use the linear time complexity "0 (n) " because we have to loop through all the words provided to determie if the words in the magazineText will be be enough based on the words from the noteText.
